@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="./images/banner.png" alt="Zero Trust UTM Security Lab" width="100%" />
 <h1>Zero Trust UTM Security Lab</h1>
 <h3>Enterprise-grade 5-machine cybersecurity infrastructure: network, identity, intelligence, deception and endpoint</h3>
 
